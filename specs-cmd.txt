@@ -1,0 +1,79 @@
+
+Host Name:                 DESKTOP-A30P7RA
+OS Name:                   Microsoft Windows 10 Home
+OS Version:                10.0.18363 N/A Build 18363
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          brendenstahle@outlook.com
+Registered Organization:   
+Product ID:                00326-10044-22410-AA748
+Original Install Date:     5/29/2020, 4:58:28 PM
+System Boot Time:          7/22/2020, 9:13:47 AM
+System Manufacturer:       Dell Inc.
+System Model:              Precision M4600
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 42 Stepping 7 GenuineIntel ~2801 Mhz
+BIOS Version:              Dell Inc. A08, 10/18/2011
+Windows Directory:         C:\WINDOWS
+System Directory:          C:\WINDOWS\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC-06:00) Central Time (US & Canada)
+Total Physical Memory:     8,149 MB
+Available Physical Memory: 3,055 MB
+Virtual Memory: Max Size:  11,093 MB
+Virtual Memory: Available: 4,515 MB
+Virtual Memory: In Use:    6,578 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\DESKTOP-A30P7RA
+Hotfix(s):                 9 Hotfix(s) Installed.
+                           [01]: KB4565633
+                           [02]: KB4517245
+                           [03]: KB4537759
+                           [04]: KB4552152
+                           [05]: KB4559309
+                           [06]: KB4560959
+                           [07]: KB4561600
+                           [08]: KB4565554
+                           [09]: KB4565483
+Network Card(s):           6 NIC(s) Installed.
+                           [01]: TAP-ProtonVPN Windows Adapter V9
+                                 Connection Name: Local Area Connection
+                                 Status:          Media disconnected
+                           [02]: VMware Virtual Ethernet Adapter for VMnet1
+                                 Connection Name: VMware Network Adapter VMnet1
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.195.254
+                                 IP address(es)
+                                 [01]: 192.168.195.1
+                                 [02]: fe80::31e4:d284:4efb:5a42
+                           [03]: VMware Virtual Ethernet Adapter for VMnet8
+                                 Connection Name: VMware Network Adapter VMnet8
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 192.168.58.1
+                                 [02]: fe80::564:e37:75c5:89d7
+                           [04]: Intel(R) 82579LM Gigabit Network Connection
+                                 Connection Name: Ethernet
+                                 Status:          Media disconnected
+                           [05]: Intel(R) Centrino(R) Advanced-N 6250 AGN Driver
+                                 Connection Name: Wi-Fi
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.1.1
+                                 IP address(es)
+                                 [01]: 192.168.1.13
+                                 [02]: fe80::103c:634c:b850:89f2
+                           [06]: VirtualBox Host-Only Ethernet Adapter
+                                 Connection Name: VirtualBox Host-Only Network #2
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 192.168.56.1
+                                 [02]: fe80::d010:c284:883c:9e1a
+Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+                           Virtualization Enabled In Firmware: Yes
+                           Second Level Address Translation: Yes
+                           Data Execution Prevention Available: Yes

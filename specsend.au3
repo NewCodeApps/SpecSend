@@ -1,1 +1,2 @@
-Run("specsend.bat")
+#RequireAdmin
+Run("python specsend.py")
